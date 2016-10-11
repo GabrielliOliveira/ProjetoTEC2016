@@ -25,6 +25,11 @@ R013 - Orçamento (usar um formulário = orcamento)
        Responsável pela sua criação: Leonardo Santos Martins
        Pacote UML - Ainda não foi feito
 
+R014 - Lembrete para o cliente
+	Este requisito tem como objetivo avisar o cliente via email ou celular que existe um serviço a ser prestado requerido.
+	Responsável pela criação: Gabrielli Oliveira de Jesus.
+	Pacote UML: Não realizado no momento da descrição desta tarefa.
+	
 R017  - Relatório de compras
 	Este requisito tem como objetivo de realizar relatório das últimas compras (ultimas, por intervalo de data).
        Responsável pela sua criação: Lucas Fredegoto Reinaldi
